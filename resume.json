@@ -1,0 +1,65 @@
+{
+  "basics": {
+    "name": "Katie M. Lyon",
+    "email": "katie.m.lyon@gmail.com",
+    "website": "http://katiemlyon.github.io/"
+      }
+  },
+  "work": [
+    {
+      "company": "Colorado State University",
+      "position": "Graduate Research Assistant",
+      "startDate": "2010-05-01",
+      "endDate": "2015-12-01"
+    },
+    {
+      "company": "Colorado State University",
+      "position": "Learning Analyst",
+      "startDate": "2013-08-01",
+      "endDate": "2016-01-01"
+    },
+    {
+      "company": "Colorado State University",
+      "position": "Graduate Teaching Assistant",
+      "startDate": "2010-05-01",
+      "endDate": "2015-12-01"
+    },
+    {
+      "company": "USDA Forest Service",
+      "position": "Library Technician",
+      "startDate": "2004-08-01",
+      "endDate": "2016-01-31"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Colorado State University",
+      "area": "Human Dimensions of Natural Resources",
+      "studyType": "Ph.D.",
+      "startDate": "2011-06-01",
+      "endDate": "2016-08-01"
+    },
+    {
+      "institution": "Colorado State University",
+      "area": "Human Dimensions of Natural Resources",
+      "studyType": "M.S.",
+      "startDate": "2011-06-01",
+      "endDate": "2014-01-01"
+    },
+    {
+      "institution": "Colorado State University",
+      "area": "Human Dimensions of Natural Resources",
+      "studyType": "B.S.",
+      "startDate": "2002-08-01",
+      "endDate": "2004-12-01"
+    }
+  ],
+  "publications": [
+    {
+      "name": "From personality-driven to institutionally-driven collaboration by the US Forest Service",
+      "publisher": "Conflict Resolution Quarterly",
+      "releaseDate": "2015",
+      "website": "http"
+    }
+  ]
+}
